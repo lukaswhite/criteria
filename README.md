@@ -1,11 +1,15 @@
 # Criteria
 
+> This is a work-in-progress, and probably isn't yet ready for production. Feedback is, however, very welcome.
+
+<!--
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
 [![Coverage Status][ico-scrutinizer]][link-scrutinizer]
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
+-->
 
 Sometimes you need to decide whether to perform a particular operation based on some criteria.
 
